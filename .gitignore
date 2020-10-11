@@ -137,7 +137,7 @@ dmypy.json
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-.idea/AMARL.iml
+.idea/baseline-marl.iml
 .idea/**/deployment.xml
 
 # Generated files
@@ -204,3 +204,6 @@ fabric.properties
 
 *.done
 *.mp4
+
+# Tensorboard stuff
+runs/
